@@ -1,0 +1,97 @@
+[Header]
+MagicCookie={0b13fe8c-dfe0-40eb-8900-6712719559a7}
+Version=1.0
+[File000]
+Location=T:\Programming - PIC\Fan Controller\Silicon Chip\Objects\usb_descriptors.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Objects||$(AINDIR)||$(INCDIR)|..\..\Silicon Chip;..\..\..\Silicon Chip;..\..\include;..\include;.;..\microchip\include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C18\lib;C:\mcc18\lib||$(LKRDIR)|.||
+SOLK=<src>|usb_descriptors.c|main.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|..\Microchip\USB\usb_device.c|usbcallbacks.c||<obj>||<lib>||<lkr>|rm18f2550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-mL -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File001]
+Location=T:\Programming - PIC\Fan Controller\Silicon Chip\Objects\main.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Objects||$(AINDIR)||$(INCDIR)|..\..\Silicon Chip;..\..\..\Silicon Chip;..\..\include;..\include;.;..\microchip\include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C18\lib;C:\mcc18\lib||$(LKRDIR)|.||
+SOLK=<src>|usb_descriptors.c|main.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|..\Microchip\USB\usb_device.c|usbcallbacks.c||<obj>||<lib>||<lkr>|rm18f2550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-mL -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File002]
+Location=T:\Programming - PIC\Fan Controller\Microchip\USB\CDC Device Driver\Objects\usb_function_cdc.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Objects||$(AINDIR)||$(INCDIR)|..\..\Silicon Chip;..\..\..\Silicon Chip;..\..\include;..\include;.;..\microchip\include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C18\lib;C:\mcc18\lib||$(LKRDIR)|.||
+SOLK=<src>|usb_descriptors.c|main.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|..\Microchip\USB\usb_device.c|usbcallbacks.c||<obj>||<lib>||<lkr>|rm18f2550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-mL -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File003]
+Location=T:\Programming - PIC\Fan Controller\Microchip\USB\Objects\usb_device.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Objects||$(AINDIR)||$(INCDIR)|..\..\Silicon Chip;..\..\..\Silicon Chip;..\..\include;..\include;.;..\microchip\include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C18\lib;C:\mcc18\lib||$(LKRDIR)|.||
+SOLK=<src>|usb_descriptors.c|main.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|..\Microchip\USB\usb_device.c|usbcallbacks.c||<obj>||<lib>||<lkr>|rm18f2550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-mL -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File004]
+Location=T:\Programming - PIC\Fan Controller\Silicon Chip\Objects\usbcallbacks.o
+Folder=Intermediary
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={E56A1C86-9D32-4DF6-8C34-FE0388B1B644}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mcc18.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Objects||$(AINDIR)||$(INCDIR)|..\..\Silicon Chip;..\..\..\Silicon Chip;..\..\include;..\include;.;..\microchip\include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C18\lib;C:\mcc18\lib||$(LKRDIR)|.||
+SOLK=<src>|usb_descriptors.c|main.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|..\Microchip\USB\usb_device.c|usbcallbacks.c||<obj>||<lib>||<lkr>|rm18f2550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=-mL -Ou- -Ot- -Ob- -Op- -Or- -Od- -Opa-
+TraceCmdString=
+DebugOptions=
+[File005]
+Location=T:\Programming - PIC\Fan Controller\Silicon Chip\.\Output\Fan Controller.cof
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mplink.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Objects||$(AINDIR)||$(INCDIR)|..\..\Silicon Chip;..\..\..\Silicon Chip;..\..\include;..\include;.;..\microchip\include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C18\lib;C:\mcc18\lib||$(LKRDIR)|.||
+SOLK=<src>|usb_descriptors.c|main.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|..\Microchip\USB\usb_device.c|usbcallbacks.c||<obj>||<lib>||<lkr>|rm18f2550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof" /M"$(BINDIR_)$(TARGETBASE).map" /W
+TraceCmdString=
+DebugOptions=
+[File006]
+Location=T:\Programming - PIC\Fan Controller\Silicon Chip\.\Output\Fan Controller.hex
+Folder=Output
+DeviceName=PIC18F2550
+LanguageToolSuiteID={5B7D72DD-9861-47BD-9F60-2BE967BF8416}
+LanguageToolID={96C98149-AA1B-4CF9-B967-FAE79CAB663C}
+LanguageToolLocation=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mplink.exe
+PPAD=$(BINDIR)|.\Output||$(TMPDIR)|.\Objects||$(AINDIR)||$(INCDIR)|..\..\Silicon Chip;..\..\..\Silicon Chip;..\..\include;..\include;.;..\microchip\include||$(LIBDIR)|C:\Program Files (x86)\Microchip\MPLAB C18\lib;C:\mcc18\lib||$(LKRDIR)|.||
+SOLK=<src>|usb_descriptors.c|main.c|..\Microchip\USB\CDC Device Driver\usb_function_cdc.c|..\Microchip\USB\usb_device.c|usbcallbacks.c||<obj>||<lib>||<lkr>|rm18f2550 - HID Bootload.lkr||
+SuiteArgsString=
+ToolArgsString=/o"$(BINDIR_)$(TARGETBASE).cof" /M"$(BINDIR_)$(TARGETBASE).map" /W
+TraceCmdString=
+DebugOptions=
+[TOOL_LOC_STAMPS]
+tool_loc{96C98149-AA1B-4CF9-B967-FAE79CAB663C}=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mplink.exe
+tool_loc{E56A1C86-9D32-4DF6-8C34-FE0388B1B644}=C:\Program Files (x86)\Microchip\MPLAB C18\bin\mcc18.exe
