@@ -1,0 +1,25 @@
+This repository contains details about building and controlling the Geoff's
+"Intelligent Fan Controller".
+
+
+-------------------------------------------------------------------------------
+From http://geoffg.net/fancontroller.html
+
+The Intelligent Fan Controller is designed to control the noise generated
+by the fans inside your computer. It does this by varying their speed based
+on temperatures measured inside the case. When it is cool the fans will run
+slowly and they will only speed up when needed... when your computer is
+running hot.
+
+Anyone with a noisy computer, especially a Media Centre system in the
+lounge room, will benefit from this project. After installing this device,
+my computer is now so quiet that I can hardly tell that it is running - and
+that is a blessed relief.  
+
+The main features are:
+ * Configurable speed control based on temperatures measured inside
+ * Control up to eight fans and measure up to four temperatures
+ * USB interface and Windows software for setup and monitoring
+ * It will run independently without a host (once it has been configured)
+ * Cheap - The cost for all the parts is about $48
+
